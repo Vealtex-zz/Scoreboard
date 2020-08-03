@@ -1,9 +1,9 @@
-name: Minecraft Scoreboard
-author: Vealtex AKA Adam
+name: Scoreboard
+author: Vealtex
 version: V1
 main: adam.dev.Scoreboard.vealtex.Main
 description: Minecraft Scoreboard
 softdepend: [PlaceholderAPI]
 commands:
   sb:
-    description: Scoreboard main command
+    description: Minecraft Scoreboard
