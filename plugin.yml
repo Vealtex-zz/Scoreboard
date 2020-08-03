@@ -1,0 +1,9 @@
+name: Minecraft Spigot Scoreboard
+author: Vealtex AKA Adam
+version: V1
+main: adam.dev.Scoreboard.vealtex.Main
+description: Minecraft Scoreboard
+softdepend: [PlaceholderAPI]
+commands:
+  sb:
+    description: Scoreboard main command
